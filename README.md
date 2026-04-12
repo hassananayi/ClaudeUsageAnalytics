@@ -13,7 +13,6 @@ A browser extension for Chrome and Edge that shows your real-time Claude usage l
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blueviolet)](https://developer.chrome.com/docs/extensions/mv3/)
 
 </div>
----
 
 ## Screenshots
 
