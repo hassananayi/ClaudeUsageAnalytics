@@ -17,9 +17,9 @@ A browser extension for Chrome and Edge that shows your real-time Claude usage l
 
 ## Screenshots
 
-![Screenshot 01](images/01.png)  
-![Screenshot 02](images/02.png)  
-![Screenshot 03](images/03.png)  
+![Screenshot 01](images/1.png)  
+![Screenshot 02](images/2.png)  
+![Screenshot 03](images/3.png)  
 
 ---
 
