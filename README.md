@@ -56,7 +56,7 @@ A browser extension for Chrome and Edge that shows your real-time Claude usage l
 ## 🗂 Project Structure
  
 ```
-claude-usage-analytics/
+ClaudeUsageAnalytics/
 ├── manifest.json        # Extension manifest (MV3)
 ├── content.js           # Injected overlay widget
 ├── popup.html           # Toolbar popup UI
