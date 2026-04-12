@@ -3,7 +3,8 @@
 <img src="images/logo.png" width="96" height="96" alt="Claude Usage Analytics Logo" />
 
 # Claude Usage Analytics
-**Real-time Claude Usage Tracker **
+
+**Real-time Claude Usage Tracker**
 
 A browser extension for Chrome and Edge that shows your real-time Claude usage limits — current session and Weekly limits, and extra usage credits — directly on the page and in the browser toolbar popup.
 
