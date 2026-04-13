@@ -8,7 +8,7 @@
 
 A browser extension for Chrome and Edge that shows your real-time Claude usage limits — current session and Weekly limits, and extra usage credits — directly on the page and in the browser toolbar popup.
 
-[![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chrome.google.com/webstore)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome-Extension-4285F4?logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/claude-usage-analytics/nbbpanoegpkjofnmckkcjgaehagfingd)
 [![Edge Add-ons](https://img.shields.io/badge/Edge-Add--on-0078D4?logo=microsoftedge&logoColor=white)](https://microsoftedge.microsoft.com/addons)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Manifest V3](https://img.shields.io/badge/Manifest-V3-blueviolet)](https://developer.chrome.com/docs/extensions/mv3/)
@@ -39,7 +39,7 @@ A browser extension for Chrome and Edge that shows your real-time Claude usage l
 ## Installation
 
 ### From the Web Store *(recommended)*
-- **Chrome:** [Chrome Web Store →](#) *(Link will be added when published)*
+- **Chrome:** [Chrome Web Store →](https://chromewebstore.google.com/detail/claude-usage-analytics/nbbpanoegpkjofnmckkcjgaehagfingd)
 - **Edge:** [Microsoft Edge Add-ons →](#) *(Link will be added when published)*
 
 
